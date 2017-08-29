@@ -53,23 +53,4 @@ def check_space_availability(user_input):
 def show_the_board():
     print creating_board(user_input)
 
-
-creating_board(user_input)
-player_selection()
-placement_on_the_board()
-board_checker(user_input)
-show_the_board()
-placement_on_the_board()
-board_checker(user_input)
-show_the_board()
-placement_on_the_board()
-board_checker(user_input)
-show_the_board()
-placement_on_the_board()
-board_checker(user_input)
-show_the_board()
-placement_on_the_board()
-board_checker(user_input)
-placement_on_the_board()
-board_checker(user_input)
-show_the_board()           
+         
